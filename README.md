@@ -1,5 +1,5 @@
 # Inventory-Management-and-Sales-Prediction-Analysis
-This project analyzes sales data, stock levels, and temperatures to predict future sales and optimize inventory. It includes data preprocessing, EDA, model selection (Linear Regression, Random Forest), hyperparameter tuning, and evaluation. Insights into factors impacting sales decisions are provided.
+This project utilizes historical sales data, sensor-based stock levels, and storage temperatures to predict future sales and optimize inventory management strategies for Gala Groceries. It includes data preprocessing, exploratory data analysis (EDA), model selection using both Linear Regression and Random Forest, and model evaluation. The aim is to provide actionable insights into how stock levels and temperature variations impact sales, enabling informed decision-making for inventory and operational efficiencies.
 ## Project Overview
 - **Data Preprocessing:** Cleaning, merging, and preparing datasets for analysis.
 - **Exploratory Data Analysis (EDA):** Visualizing data distributions, correlations, and patterns.
